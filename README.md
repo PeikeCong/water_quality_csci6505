@@ -1,8 +1,5 @@
 # Water Quality Detection and Prediction Using Time Series Models
 
-## Authors
-Xinyi Li, Peike Cong
-
 ## Abstract
 This project explores time series and deep learning models, including LSTM, RNN, XGBoost, and ARIMA, for predicting water quality parameters. The report compares their performance and suitability for capturing complex time-dependent patterns.
 
@@ -20,7 +17,6 @@ The study evaluates various models to predict dissolved oxygen levels in water, 
 ## Data Description
 ### Data Sources
 - **Queensland Government Open Data Portal**
-- **Kaggle**
 
 ### Features
 - Timestamp
